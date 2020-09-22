@@ -1,5 +1,5 @@
 <h1 align="center">
-Redux practice
+Crypto app
 </h1>
 
 <p align="center">Simple cryptocurrency react app for study purposes.</p>
